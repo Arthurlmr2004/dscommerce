@@ -24,7 +24,6 @@ public class Category {
 	private Set<Product> products = new HashSet<>();
 
 	public Category() {
-
 	}
 
 	public Category(Long id, String name) {
